@@ -22,7 +22,7 @@
 
 
 7. 确定之后，就生成我们需要的 token 了。
-   <img src="https://cdn.jsdelivr.net/gh/soeos/111@master/img/202308160455206.png" alt="">
+   <img src="https://cdn.jsdelivr.net/gh/soeos/111@master/img/202308160507608.png" alt="">
 
 ==注意== :生成的token只会在这里显示一次，所以记得单独保存下来哦。
 
@@ -45,6 +45,6 @@ https://cdn.jsdelivr.net/gh/用户名/仓库@分支
 
 上传成功之后，在 GitHub 的仓库就可以看到了。
 
-<img src="https://cdn.jsdelivr.net/gh/soeos/111@master/img/202308160455206.png" alt="">
+<img src="https://cdn.jsdelivr.net/gh/soeos/111@master/img/202308160447293.png" alt="">
 
 最后，在相册里复制外链，粘贴到我们的 markdown 文档中，就可以看到图片了。
