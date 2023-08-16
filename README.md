@@ -8,7 +8,7 @@
 1. 创建一个新仓库，用于存放图片。
     
      填写仓库名称和描述，且仓库必须是public的，否则存储的图片不能正常访问。
-    
+    <img src="https://cdn.jsdelivr.net/gh/soeos/111@master/img/202308160455206.png" alt="">
 2. 生成一个token，用于picGo访问github
     
     选择左侧菜单的Developer settings
